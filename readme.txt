@@ -1,4 +1,4 @@
-=== WPB Social Master ===
+=== WPB Woocommerce Product slider ===
 Contributors: wpbean
 Donate link: 
 Tags: woocommerce,product,slider,carousel
@@ -14,13 +14,11 @@ shortcode & widget.
 
 == Description ==
 
-### WPB Social Master by http://wpbean.com
+### WPB Woocommerce Product slider by http://wpbean.com
 
 This plugin will add responsive product carousel slider on your woocommerce site.
 
-See the <a href="http://wordpress.org/plugins/wpb-woo-product-slider/screenshots/">screenshots section</a> for 
-
-visuals on social sharing features.
+See the <a href="http://wordpress.org/plugins/wpb-woo-product-slider/screenshots/">screenshots section</a> for visuals on WPB Woocommerce Product slider features.
 
 Plugin Features
 
