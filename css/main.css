@@ -1,0 +1,249 @@
+/*google font*/
+@import url(http://fonts.googleapis.com/css?family=Roboto:300,100,400);
+
+body{-webkit-backface-visibility: hidden;}
+.owl-text-center{text-align:conter;}
+div.wpb_slider_area .item{ margin: 3px;}
+div.wpb_slider_area .cs-style-3 .item img {box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);}
+#owl-demo .item img, #owl-demo-feature .item img, #owl-demo-side .item img, #owl-demo-side-feature .item img{display: block;width: 100%; height: auto;max-width:100%}
+h2.wpb_area_title {margin: 0 0 36px 0;}
+span.p_price {
+	color: #fff;
+	text-align: center;
+	font-size: 14px;
+}
+.cs-style-3 figcaption a {
+	position: absolute!important;
+	bottom: 14px;
+	right: 0;
+	margin: 0 auto!important;
+	max-width: 135px;
+	left: 0!important;
+	text-align: center;
+}
+.grid figcaption a{
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+.woocommerce-page .grid figcaption a:active, .woocommerce-page .grid_no_animation figcaption a:active  {top:inherit;}
+.woocommerce-page .grid figcaption a, .woocommerce-page .grid_no_animation figcaption a {
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+	box-shadow: none;
+	border: none;
+	border-radius: 0;
+	font-weight: lighter;
+	text-shadow: none;
+}
+.grid figcaption a:hover {
+	text-decoration: none;
+}
+img.wpb_pro_img {
+	border-radius: 0px!important;
+	box-shadow: none!important;
+}
+.wpb_slider_area del {color: #fff!important;}
+.wpb_slider_area ins {
+	background: transparent!important;
+	text-decoration: none;
+}
+/*style for small lay out*/
+.small_layout .cs-style-6 figcaption a , .small_layout .cs-style-3 figcaption a, .small_layout .cs-style-5 figcaption a {
+	width: 100%;
+	right: 0;
+	padding: 5px 0;
+	bottom: 0;
+}
+.small_layout .cs-style-4 figcaption h3, .small_layout .cs-style-5 figcaption h3{font-size:14px;}
+.small_layout .cs-style-4 figcaption a i{display:none;}
+.small_layout .cs-style-4 figcaption a {
+	width: 100%;
+	bottom: 0;
+	font-size: 12px;
+}
+.medium_layout .cs-style-6 figcaption h3{font-size:14px;bottom: 38%;}
+.medium_layout .cs-style-6 figcaption span.p_price{width:26%;}
+.medium_layout .cs-style-6 figcaption a { width: 56%;}
+.shopping-cart-icon:before {
+	content: "\f07a";
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: inherit;
+	color: #fff;
+	font-size: 18px;
+	padding-right: 0.5em;
+	position: absolute;
+	top: 5px;
+	left: 5px;
+}
+.btn {
+	display: inline-block;
+	margin-bottom: 0;
+	font-weight: 400;
+	text-align: center;
+	vertical-align: middle;
+	cursor: pointer;
+	background-image: none;
+	border: 1px solid transparent;
+	white-space: nowrap;
+	padding: 4px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	border-radius: 4px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.customNavigation .btn:hover {opacity:1;}
+.customNavigation .btn {
+	position: relative;
+	text-indent: -9999px;
+	background: #16a085;
+	border-radius: 0;
+	opacity: 0.8;
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+/*replace the content value with the
+corresponding value from the list below*/
+ 
+.customNavigation .btn:before {
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: inherit;
+	color: #fff;
+	font-size: 20px;
+	position: absolute;
+	top: -1px;
+	left: 0;
+	text-indent: 0px;
+	text-align: center;
+	right: 0;
+}
+.customNavigation .prev:before {content: "\f104";}
+.customNavigation .next:before {content: "\f105";}
+/*--------- style for cs style 4 ----------*/
+
+.cs-style-4 figcaption a {
+	position: absolute;
+	bottom: 14px;
+	width: 84%;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+}
+.cs-style-4 span.p_price {
+	bottom: 56px;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+}
+
+/*--------- style for cs style 5 ----------*/
+
+.cs-style-5 figure a {
+	position: absolute;
+	bottom: 14px;
+	right: 14px;
+	width: 60%;
+}
+
+/*--------- style for cs style 6 ----------*/
+
+.cs-style-6 figcaption h3 {
+	bottom: 30%;
+	position: absolute;
+	text-align: center;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	width: 92%;
+}
+.cs-style-6 figcaption a {
+	position: absolute;
+	bottom: 14px;
+	right: 14px;
+	width: 60%;
+}
+
+/*--------- style for dotstyle ----------*/
+
+.owl-theme .owl-controls .owl-page span {
+	display: block;
+	width: 30px;
+	height: 15px;
+	filter: Alpha(Opacity=50);
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 0px;
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+
+/*--------- style for navigation ----------*/
+
+div.owl-buttons {
+	position: absolute;
+	top: -33px;
+	right: 3px;
+}
+.wpb_sidebar_slider div.owl-buttons {right: 3px;}
+div.wpb_slider_area {
+	position: relative;
+}
+
+/*--------- style for no animation ----------*/
+div.grid_no_animation a.wpb_pro_img_url {
+	display: block;
+	overflow: hidden;
+}
+div.grid_no_animation figcaption {
+	background: #ECECEC;
+	text-align: center;
+	display: block;
+	overflow: hidden;
+}
+div.grid_no_animation figcaption h3.pro_title {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	padding: 5px 0;
+	color:#808080;
+	-webkit-transition: color 300ms;
+	-moz-transition: color 300ms;
+	-o-transition: color 300ms;
+	transition: color 300ms;
+}
+div.grid_no_animation figcaption .pro_price_area del .amount {text-decoration: none;color: #666;}
+div.grid_no_animation figcaption .pro_price_area .amount {text-decoration: none;}
+div.grid_no_animation figcaption .pro_price_area del {color: #666!important;}
+div.grid_no_animation figcaption .pro_price_area{display:block;overflow:hidden;margin-bottom: 10px;}
+div.grid_no_animation figcaption a.button {
+	display: inline-block;
+	overflow: hidden;
+	color: #fff!important;
+	padding: 3px 15px;
+	margin-bottom:5px;
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+div.grid_no_animation figcaption a.button:hover {text-decoration:none;color:#fff;}
+
+/*style for no animation in sidebar*/
+
+.wpb_sidebar_slider div.grid_no_animation figcaption h3.pro_title {font-size: 16px;padding: 10px 0;margin-bottom: 5px;}
+.wpb_sidebar_slider div.grid_no_animation figcaption .pro_price_area {margin-bottom: 15px;}
+.wpb_sidebar_slider div.grid_no_animation figcaption a.button{padding: 8px 15px;margin-bottom: 10px;}
