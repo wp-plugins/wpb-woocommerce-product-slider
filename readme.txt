@@ -1,6 +1,6 @@
 === WPB Woocommerce Product slider ===
 Contributors: wpbean
-Donate link: 
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWQBJMQX3LCNQ
 Tags: woocommerce,product,slider,carousel
 Requires at least: 3.3
 Tested up to: 3.9.1
@@ -32,6 +32,8 @@ Plugin Features
 & many More
 
 Live Preview: http://demo.wpbean.com/wpb-woocommerce-product-slider/
+
+For running the development process Please And Please <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWQBJMQX3LCNQ">Donate</a>.
 
 == Installation ==
 
