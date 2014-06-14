@@ -35,6 +35,8 @@ Live Preview: http://demo.wpbean.com/wpb-woocommerce-product-slider/
 
 For running the development process Please And Please <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWQBJMQX3LCNQ">Donate</a>.
 
+Wpbean is available for <a href="http://wpbean.com/wpbean-is-available-for-hire/" title="Wpbean is available for hire">hire</a>.
+
 == Installation ==
 
 * Install it as a regular WordPress plugin
