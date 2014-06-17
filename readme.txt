@@ -20,7 +20,7 @@ This plugin will add responsive product carousel slider on your woocommerce site
 
 See the <a href="http://wordpress.org/plugins/wpb-woo-product-slider/screenshots/">screenshots section</a> for visuals on WPB Woocommerce Product slider features.
 
-Plugin Features
+Plugin Features:
 
 * Flat and responsive Design for slider.
 * Shortcode System
@@ -31,9 +31,17 @@ Plugin Features
 * Very Lightweight.
 & many More
 
+Pro features:
+
+* Product slider for specific category products.
+* Product slider for specific products by product id.
+* Tinymce button with popup shortcode arguments for slider shortcode generate.
+* Two custom widget for slider by custom product ID and Custom category .
+* Well documentation and support.
+
 Live Preview: http://demo.wpbean.com/wpb-woocommerce-product-slider/
 
-For running the development process Please And Please <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWQBJMQX3LCNQ">Donate</a>.
+<a href="http://wpbean.com/product/wpb-woocommerce-product-slider-pro/">Go for Pro</a>.
 
 Wpbean is available for <a href="http://wpbean.com/wpbean-is-available-for-hire/" title="Wpbean is available for hire">hire</a>.
 
