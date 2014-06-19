@@ -41,6 +41,8 @@ Pro features:
 
 Live Preview: http://demo.wpbean.com/wpb-woocommerce-product-slider/
 
+Online Documentation: http://doc.wpbean.com/woo_pro_slider
+
 <a href="http://wpbean.com/product/wpb-woocommerce-product-slider-pro/">Go for Pro</a>.
 
 Wpbean is available for <a href="http://wpbean.com/wpbean-is-available-for-hire/" title="Wpbean is available for hire">hire</a>.
