@@ -33,8 +33,7 @@ Plugin Features:
 * Widget Ready. 
 * Two different type slider style.
 * All modern browser support. 
-* Very Lightweight.
-& many More
+* Very Lightweight & many More
 
 Pro features:
 
