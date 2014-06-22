@@ -18,6 +18,11 @@ shortcode & widget.
 
 This plugin will add responsive product carousel slider on your woocommerce site.
 
+*   [Upgrade to the Pro Version Now!&raquo;](http://wpbean.com/product/wpb-woocommerce-product-slider-pro "Pro Version")
+*   [View a live demo &raquo;](http://demo.wpbean.com/wpb-woocommerce-product-slider)
+*   [Online Documentation &raquo;](http://doc.wpbean.com/woo_pro_slider)
+*   [Wpbean is available for &raquo;](http://wpbean.com/wpbean-is-available-for-hire "Wpbean is available for hire")
+
 See the <a href="http://wordpress.org/plugins/wpb-woo-product-slider/screenshots/">screenshots section</a> for visuals on WPB Woocommerce Product slider features.
 
 Plugin Features:
@@ -36,16 +41,13 @@ Pro features:
 * Product slider for specific category products.
 * Product slider for specific products by product id.
 * Tinymce button with popup shortcode arguments for slider shortcode generate.
-* Two custom widget for slider by custom product ID and Custom category .
+* Two custom widget for slider by custom product ID and Custom category.
+* Works with any WordPress Theme.
+* Build with HTML5 & CSS3.
+* Responsive. Work on any device.
+* Easy and user-friendly setup.
 * Well documentation and support.
 
-Live Preview: http://demo.wpbean.com/wpb-woocommerce-product-slider/
-
-Online Documentation: http://doc.wpbean.com/woo_pro_slider
-
-<a href="http://wpbean.com/product/wpb-woocommerce-product-slider-pro/">Go for Pro</a>.
-
-Wpbean is available for <a href="http://wpbean.com/wpbean-is-available-for-hire/" title="Wpbean is available for hire">hire</a>.
 
 == Installation ==
 
@@ -101,9 +103,18 @@ featured products. Just drag and drop the widget where you need it.
 
 == Changelog ==
 
+= 1.1.0 =
+* Fixed a small bug.
+
 = 1.0 =
 * Initial release
 
 
 
 == Upgrade notice ==
+
+= 1.1.0 =
+* Fixed a small bug.
+
+= 1.0 =
+* Initial release
