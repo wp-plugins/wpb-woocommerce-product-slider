@@ -21,7 +21,7 @@ This plugin will add responsive product carousel slider on your woocommerce site
 *   [Upgrade to the Pro Version Now!&raquo;](http://wpbean.com/product/wpb-woocommerce-product-slider-pro "Pro Version")
 *   [View a live demo &raquo;](http://demo.wpbean.com/wpb-woocommerce-product-slider)
 *   [Online Documentation &raquo;](http://doc.wpbean.com/woo_pro_slider)
-*   [Wpbean is available for &raquo;](http://wpbean.com/wpbean-is-available-for-hire "Wpbean is available for hire")
+*   [Wpbean is available for hire &raquo;](http://wpbean.com/wpbean-is-available-for-hire "Wpbean is available for hire")
 
 See the <a href="http://wordpress.org/plugins/wpb-woo-product-slider/screenshots/">screenshots section</a> for visuals on WPB Woocommerce Product slider features.
 
