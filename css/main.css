@@ -5,7 +5,7 @@ body{-webkit-backface-visibility: hidden;}
 .owl-text-center{text-align:conter;}
 div.wpb_slider_area .item{ margin: 3px;}
 div.wpb_slider_area .cs-style-3 .item img {box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);}
-#owl-demo .item img, #owl-demo-feature .item img, #owl-demo-side .item img, #owl-demo-side-feature .item img{display: block;width: 100%; height: auto;max-width:100%}
+#owl-demo .item img, #owl-demo-feature .item img, #owl-demo-side .item img, #owl-demo-side-feature .item img, #owl-demo-id-sidebar .item img, #owl-demo-category-sidebar .item img{display: block;width: 100%; height: auto;max-width:100%}
 h2.wpb_area_title {margin: 0 0 36px 0;}
 span.p_price {
 	color: #fff;
@@ -45,6 +45,9 @@ span.p_price {
 img.wpb_pro_img {
 	border-radius: 0px!important;
 	box-shadow: none!important;
+}
+.img_fix img {
+  margin-bottom: -7px !important;
 }
 .wpb_slider_area del {color: #fff!important;}
 .wpb_slider_area ins {
@@ -220,19 +223,20 @@ div.grid_no_animation figcaption h3.pro_title {
 	font-weight: 300;
 	padding: 5px 0;
 	color:#808080;
+	font-size:14px;
+	line-height: 20px;
 	-webkit-transition: color 300ms;
 	-moz-transition: color 300ms;
 	-o-transition: color 300ms;
 	transition: color 300ms;
 }
-div.grid_no_animation figcaption .pro_price_area del .amount {text-decoration: none;color: #666;}
+div.grid_no_animation figcaption del .pro_price_area .amount {text-decoration: none;color: #666;}
 div.grid_no_animation figcaption .pro_price_area .amount {text-decoration: none;}
-div.grid_no_animation figcaption .pro_price_area del {color: #666!important;}
+div.grid_no_animation figcaption del  {color: #666!important;}
 div.grid_no_animation figcaption .pro_price_area{display:block;overflow:hidden;margin-bottom: 10px;}
 div.grid_no_animation figcaption a.button {
 	display: inline-block;
 	overflow: hidden;
-	color: #fff!important;
 	padding: 3px 15px;
 	margin-bottom:5px;
 	-webkit-transition: all 0.2s linear;
@@ -247,3 +251,9 @@ div.grid_no_animation figcaption a.button:hover {text-decoration:none;color:#fff
 .wpb_sidebar_slider div.grid_no_animation figcaption h3.pro_title {font-size: 16px;padding: 10px 0;margin-bottom: 5px;}
 .wpb_sidebar_slider div.grid_no_animation figcaption .pro_price_area {margin-bottom: 15px;}
 .wpb_sidebar_slider div.grid_no_animation figcaption a.button{padding: 8px 15px;margin-bottom: 10px;}
+
+.widget .cs-style-3 .add_to_cart_button {line-height: 20px;}
+div.grid_no_animation figcaption a.button {color: #ffffff!important;}
+/*Return bug fix*/
+.price_area_fix del {display: inline-block;}
+.price_area_fix ins {display: inline-block;}
