@@ -37,6 +37,7 @@ Plugin Features:
 
 Pro features:
 
+* Unlimited slider in same page.
 * Product slider for specific category products.
 * Product slider for specific products by product id.
 * Tinymce button with popup shortcode arguments for slider shortcode generate.
