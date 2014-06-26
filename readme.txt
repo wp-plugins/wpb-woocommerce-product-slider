@@ -48,6 +48,9 @@ Pro features:
 * Easy and user-friendly setup.
 * Well documentation and support.
 
+Video Documentation:
+
+[youtube https://www.youtube.com/watch?v=IouygEhvTaA]
 
 == Installation ==
 
