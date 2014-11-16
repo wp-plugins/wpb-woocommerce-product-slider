@@ -41,8 +41,12 @@ Pro features:
 * Unlimited slider in same page.
 * Product slider for specific category products.
 * Product slider for specific products by product id.
-* Tinymce button with popup shortcode arguments for slider shortcode generate.
-* Two custom widget for slider by custom product ID and Custom category.
+* Product slider for specific products by product SKU.
+* Visual Composer element support.
+* Enable or disable option for the title, category, price even add to cart button also.
+* Control number of product to show in phone, tab, small screen.
+* Shortcode attribute for product image height & width.
+* Product order & orderby.
 * Works with any WordPress Theme.
 * Build with HTML5 & CSS3.
 * Responsive. Work on any device.
