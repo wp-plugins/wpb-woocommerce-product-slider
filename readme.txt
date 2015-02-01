@@ -3,8 +3,8 @@ Contributors: wpbean
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWQBJMQX3LCNQ
 Tags: woocommerce,product,slider,carousel
 Requires at least: 3.3
-Tested up to: 4.0
-Stable tag: 1.1
+Tested up to: 4.1
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -111,17 +111,17 @@ featured products. Just drag and drop the widget where you need it.
 
 == Changelog ==
 
-= 1.1.0 =
+= version 1.0.1 =
 * Fixed a small bug.
 
-= 1.0 =
+= version 1.0 =
 * Initial release
 
 
 
 == Upgrade notice ==
 
-= 1.1.0 =
+= version 1.0 =
 * Fixed a small bug.
 
 = 1.0 =
