@@ -1,7 +1,7 @@
 === WPB Woocommerce Product slider ===
 Contributors: wpbean
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWQBJMQX3LCNQ
-Tags: woocommerce,product,slider,carousel
+Tags: carousel, multiple product slider, on sale product carousel, product, product carousel, product content slider, product contents carousel, product rotator, product slider, products slider, responsive product slider, woo slider, woocommerce, woocommerce product carousel, woocommerce product slider, WooCommerce Products, woocommerce products slider, woocommerce slider
 Requires at least: 3.3
 Tested up to: 4.1
 Stable tag: trunk
