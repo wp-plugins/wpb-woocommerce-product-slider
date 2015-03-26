@@ -27,7 +27,7 @@ See the <a href="http://wordpress.org/plugins/wpb-woo-product-slider/screenshots
 
 Video Documentation:
 
-https://youtu.be/abgnW7wN5pY
+https://www.youtube.com/watch?v=abgnW7wN5pY&feature=youtu.be
 
 Plugin Features:
 
