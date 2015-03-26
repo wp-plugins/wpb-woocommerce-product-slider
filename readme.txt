@@ -25,6 +25,10 @@ This plugin will add responsive product carousel slider on your woocommerce site
 
 See the <a href="http://wordpress.org/plugins/wpb-woo-product-slider/screenshots/">screenshots section</a> for visuals on WPB Woocommerce Product slider features.
 
+Video Documentation:
+
+https://youtu.be/abgnW7wN5pY
+
 Plugin Features:
 
 * Flat and responsive Design for slider.
@@ -52,9 +56,6 @@ Pro features:
 * Easy and user-friendly setup.
 * Well documentation and support.
 
-Video Documentation:
-
-https://www.youtube.com/watch?v=IouygEhvTaA
 
 == Installation ==
 
