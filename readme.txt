@@ -1,22 +1,19 @@
 === WPB Woocommerce Product slider ===
 Contributors: wpbean
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWQBJMQX3LCNQ
-Tags: carousel, multiple product slider, on sale product carousel, product, product carousel, product content slider, product contents carousel, product rotator, product slider, products slider, responsive product slider, woo slider, woocommerce, woocommerce product carousel, woocommerce product slider, WooCommerce Products, woocommerce products slider, woocommerce slider
-Requires at least: 3.3
+Tags: woocommerce product slider, multiple product slider, on sale product carousel, product, product carousel, product content slider, product contents carousel, product rotator, product slider, products slider, responsive product slider, woo slider, woocommerce, woocommerce product carousel, WooCommerce Products, woocommerce products slider, woocommerce slider, carousel, woocommerce image slider, woocommerce responsive slider, woocommerce advance slider, best woocommerce product slider, easy woocommerce product slider
+Requires at least: 3.6
 Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will add responsive product carousel slider on your woocommerce site. Very easy to use, just put a 
-
-shortcode & widget. 
+Number one free WooCommerce Product slider plugin. 
 
 == Description ==
 
 ### WPB Woocommerce Product slider by http://wpbean.com
 
-This plugin will add responsive product carousel slider on your woocommerce site.
+The WPB WooCommerce Product slider is most popular & best free WooCommerce product slider plugin. We have thousands of active install of this plugin. If you are thinking to build a shopping site using WooCommerce, then WPB WooCommerce Product slider plugin is most required to you for taking your conversion rate to the next level.
 
 *   [Upgrade to the Pro Version Now!&raquo;](http://wpbean.com/product/wpb-woocommerce-product-slider-pro "Pro Version")
 *   [View a live demo &raquo;](http://23.227.167.145/wpbean/demo1/wpb-woocommerce-product-slider-pro/)
@@ -25,43 +22,47 @@ This plugin will add responsive product carousel slider on your woocommerce site
 
 See the <a href="http://wordpress.org/plugins/wpb-woo-product-slider/screenshots/">screenshots section</a> for visuals on WPB Woocommerce Product slider features.
 
-Video Documentation:
+### Video Documentation:
 
 https://www.youtube.com/watch?v=abgnW7wN5pY&feature=youtu.be
 
-Plugin Features:
+### Plugin Features:
 
-* Flat and responsive Design for slider.
+* Featured products slider.
+* Latest products slider.
+* Two different theme for slider style.
+* Flat, responsive and modern design.
 * Shortcode System
 * Advance setting panel.
 * Widget Ready. 
-* Two different type slider style.
 * All modern browser support. 
 * Very Lightweight & many More
 
-Pro features:
+### Pro features:
 
-* Unlimited slider in same page.
+* Amazing shortcode builder with all necessary options.
 * Product slider for specific category products.
 * Product slider for specific products by product id.
 * Product slider for specific products by product SKU.
-* Visual Composer element support.
+* Unlimited slider in same page.
+* Visual Composer custom element.
 * Enable or disable option for the title, category, price even add to cart button also.
 * Control number of product to show in phone, tab, small screen.
 * Shortcode attribute for product image height & width.
+* Product image crop on the fly.
 * Product order & orderby.
-* Works with any WordPress Theme.
+* Works with all WordPress Themes.
 * Build with HTML5 & CSS3.
-* Responsive. Work on any device.
 * Easy and user-friendly setup.
-* Well documentation and support.
+* Priority support.
+* Video Documentation.
 
 
 == Installation ==
 
 * Install it as a regular WordPress plugin
 
-* Before install the plugin make sure you have woocommerce installed already. 
+* Before install the plugin make sure you have WooCommerce plugin installed already. 
 
 Method 1 (Upload):
 
@@ -80,28 +81,25 @@ Method 2 (FTP):
 3. If you successfully upload the plugin You will find WPB WOO Product Slider here.
 
 4. Active the plugin and you are ready to go.
-
  
 
 
 
 == Frequently asked questions ==
 
+= What's the shortcode for this plugin? =
+There are two different shortcode avaiable for this plugin. One for featured product slider and another for latest product slider.
+1. Featured products slider shortcode : [wpb-feature-product title="Feature Products"]
+2. Latest products slider shortcode : [wpb-latest-product title="Latest Product"]
 
 = How can I change slider options like slider speed auto-play stop on mouse-hover etc? =
-I have created a advance setting option for this plugin. When you go to plugin setting page you will find a 
-
-advance setting panel read the field help text and set the options as your need.
+I have created a advance setting option for this plugin. When you go to plugin setting page you will find a advance setting panel read the field help text and set the options as your need.
 
 = Can I use more than one slider? =
-Yes you can. I have created two different slider shortcode for this plugin, one for latest products and another 
-
-for featured products. Just put the shortcode where you need it.
+Yes you can. I have created two different slider shortcode for this plugin, one for latest products and another for featured products. Just put the shortcode where you need it.
 
 = Can I use the slider in sidebar by widget? =
-Yes you can. I have created two different widget for this plugin, one for latest products and another for 
-
-featured products. Just drag and drop the widget where you need it.
+Yes you can. I have created two different widget for this plugin, one for latest products and another for featured products. Just drag and drop the widget where you need it.
 
 == Screenshots ==
 1. WPB Woocommerce Product Slider in a post
