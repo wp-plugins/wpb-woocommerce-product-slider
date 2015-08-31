@@ -27,7 +27,6 @@ https://www.youtube.com/watch?v=abgnW7wN5pY&feature=youtu.be
 
 * Featured products slider.
 * Latest products slider.
-* Two different theme for slider style.
 * Flat, responsive and modern design.
 * Shortcode System
 * Advance setting panel.
@@ -50,6 +49,7 @@ https://www.youtube.com/watch?v=abgnW7wN5pY&feature=youtu.be
 * Shortcode attribute for product image height & width.
 * Product image crop on the fly.
 * Product order & orderby.
+* Two different theme for slider style.
 * Option for remove out of stock products form slider.
 * RTL support.
 * Works with all WordPress Themes.
